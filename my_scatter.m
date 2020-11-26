@@ -1,6 +1,6 @@
 
 
-% Conor was here 
+% Conor was here ----
 
 x = linspace(0,3*pi,200);
 y = cos(x) + rand(1,200);
