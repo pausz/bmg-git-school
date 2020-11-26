@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Fixing random state for reproducibility
-np.random.seed(19680801)
+np.random.seed(42)
 
 
 N = 50
