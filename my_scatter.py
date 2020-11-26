@@ -2,8 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Fixing random state for reproducibility
-np.random.seed(42)
-
+np.random.seed(123456)
 
 N = 50
 x = np.random.rand(N)
