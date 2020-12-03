@@ -18,4 +18,4 @@ title('second plot')
 
 y3 = x^3 - x^2 + x;
 scatter(y3,x,y,x)
-title('random' 
+title('random')
