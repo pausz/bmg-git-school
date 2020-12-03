@@ -15,3 +15,7 @@ title('my scatter plot')
 
 plot(x, y2)
 title('second plot')
+
+y3 = x^3 - x^2 + x;
+scatter(y3,x,y,x)
+title('random' 
